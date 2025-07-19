@@ -10,14 +10,14 @@ Watch the full platform walkthrough: [SimplyJobs Demo](https://youtu.be/ocN684DY
 
 ## Mobile Screenshots
 
-![Screenshot 1](simply_jobs_screenshots/IMG_1.png)
-![Screenshot 2](simply_jobs_screenshots/IMG_2.png)
-![Screenshot 3](simply_jobs_screenshots/IMG_3.png)
-![Screenshot 4](simply_jobs_screenshots/IMG_4.png)
-![Screenshot 5](simply_jobs_screenshots/IMG_5.png)
-![Screenshot 6](simply_jobs_screenshots/IMG_6.png)
-![Screenshot 7](simply_jobs_screenshots/IMG_7.png)
-![Screenshot 8](simply_jobs_screenshots/IMG_8.png)
+![Screenshot 1](simply_jobs_screenshots/IMG_1.PNG)
+![Screenshot 2](simply_jobs_screenshots/IMG_2.PNG)
+![Screenshot 3](simply_jobs_screenshots/IMG_3.PNG)
+![Screenshot 4](simply_jobs_screenshots/IMG_4.PNG)
+![Screenshot 5](simply_jobs_screenshots/IMG_5.PNG)
+![Screenshot 6](simply_jobs_screenshots/IMG_6.PNG)
+![Screenshot 7](simply_jobs_screenshots/IMG_7.PNG)
+![Screenshot 8](simply_jobs_screenshots/IMG_8.PNG)
 
 ## Table of Contents
 - [Project Focus](#project-focus)
