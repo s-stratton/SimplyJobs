@@ -10,14 +10,20 @@ Watch the full platform walkthrough: [SimplyJobs Demo](https://youtu.be/ocN684DY
 
 ## Mobile Screenshots
 
-<img src="simply_jobs_screenshots/IMG_1.PNG" alt="Screenshot 1" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_2.PNG" alt="Screenshot 2" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_3.PNG" alt="Screenshot 3" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_4.PNG" alt="Screenshot 4" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_5.PNG" alt="Screenshot 5" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_6.PNG" alt="Screenshot 6" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_7.PNG" alt="Screenshot 7" width="250" style="display:inline-block; margin:5px;">
-<img src="simply_jobs_screenshots/IMG_8.PNG" alt="Screenshot 8" width="250" style="display:inline-block; margin:5px;">
+<table>
+  <tr>
+    <td><img src="simply_jobs_screenshots/IMG_1.PNG" alt="Screenshot 1" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_2.PNG" alt="Screenshot 2" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_3.PNG" alt="Screenshot 3" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_4.PNG" alt="Screenshot 4" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="simply_jobs_screenshots/IMG_5.PNG" alt="Screenshot 5" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_6.PNG" alt="Screenshot 6" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_7.PNG" alt="Screenshot 7" width="200"></td>
+    <td><img src="simply_jobs_screenshots/IMG_8.PNG" alt="Screenshot 8" width="200"></td>
+  </tr>
+</table>
 
 ## Table of Contents
 - [Project Focus](#project-focus)
